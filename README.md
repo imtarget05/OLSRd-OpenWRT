@@ -14,13 +14,9 @@ Vì lý do này, các file dự án đầy đủ và mới nhất đã được 
 
 Bạn có thể tải xuống toàn bộ mã nguồn và các file cần thiết của dự án tại liên kết Google Drive sau:
 
-[Link Tải Xuống Dự Án OLSRd-OpenWRT]($drive_link)
+[Link Tải Xuống Dự Án OLSRd-OpenWRT]($https://drive.google.com/drive/folders/1J6rljedJPqHVsuNyPpIjcpZP3gz-C5yv?hl=vi)
 
 **Liên kết Google Drive:**
 [https://drive.google.com/drive/folders/1J6rljedJPqHVsuNyPpIjcpZP3gz-C5yv?hl=vi](https://drive.google.com/drive/folders/1J6rljedJPqHVsuNyPpIjcpZP3gz-C5yv?hl=vi)
 
----
 
-## 🛠️ HƯỚNG DẪN SỬ DỤNG VÀ BIÊN DỊCH (BUILD)
-
-[Thêm các hướng dẫn ngắn gọn về cách biên dịch, cài đặt hoặc chạy dự án tại đây. Ví dụ: Yêu cầu hệ thống, các bước cài đặt thư viện phụ thuộc, lệnh biên dịch chính, v.v.]
