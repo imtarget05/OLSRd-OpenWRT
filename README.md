@@ -34,7 +34,7 @@ Dự án triển khai và mô phỏng mạng Mesh sử dụng giao thức địn
 
 ![Network Topology](https://img.shields.io/badge/Topology-Mesh_Network-success?style=for-the-badge)
 ![Routing](https://img.shields.io/badge/Routing-OLSR_Protocol-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-OpenWRT-00B5E2? style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-OpenWRT-00B5E2?style=for-the-badge)
 
 </div>
 
